@@ -1,0 +1,8 @@
+.p1{
+    background-image: url(shinji.png);
+    background-size: auto;
+}
+.p2{
+    background-image: url(shinji.png);
+    background-size: 300px 100px;
+}
