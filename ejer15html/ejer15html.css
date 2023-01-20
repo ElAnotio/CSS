@@ -1,0 +1,9 @@
+.p1{
+    height: 100px;
+    width: 500px;
+}
+.p2{
+    padding-right: 100px;
+    padding-bottom: 100px;
+    background-color: aquamarine;
+}

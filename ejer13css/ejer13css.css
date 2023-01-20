@@ -1,0 +1,27 @@
+.p1{
+    border: solid 5px red;
+}
+.p2{
+    border: solid 2px blue;
+}
+.p3{
+    border: solid 1px yellow;
+}
+.p4{
+    border-top: dotted 3px red;
+    border-bottom: dotted 3px blue;
+    border-left: dotted 3px yellow;
+    border-right: dotted 3px green;
+}
+.p5{
+    border: double 10px black ;
+}
+.p6{
+    border: double 5px black ;
+}
+.p7{
+    border-top: solid 2px black;
+    border-right: solid 5px black;
+    border-left: solid 7px black;
+    border-bottom: solid 12px black;
+}
