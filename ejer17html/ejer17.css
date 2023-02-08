@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+.grisoscuro{
+    background-color: grey;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 40px;
+
+}
