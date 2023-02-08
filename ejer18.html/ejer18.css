@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+}
+.contenedor{
+    background-color: #4E4B42;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+header{
+    background-color: rgb(212, 73, 73);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+section{
+    background-color: rgba(233, 233, 76, 0.979);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+footer{
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}

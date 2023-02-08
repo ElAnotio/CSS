@@ -1,12 +1,21 @@
 body{
-    background-color: blue;
+    background-color: grey;
 }
 .grisoscuro{
-    background-color: grey;
+    background-color: #4E4B42;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 50px;
+}
+.grisclaro{
+    background-color: #B0AB9C;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 40px;
-
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 250px;
 }
