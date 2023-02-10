@@ -1,0 +1,11 @@
+.capa1{
+    background-color: grey;
+    padding: 500px;
+    
+}
+.capa2{
+    background-color: bisque;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}

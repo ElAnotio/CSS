@@ -1,0 +1,37 @@
+div{
+    margin: 20px;
+}
+
+.caja1 {
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-image: url(pikachu.png);
+    background-repeat: no-repeat; 
+    background-position: fixed;
+    background-position: right;
+    background-size: 50px;
+}
+
+.caja2 {
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-image: url(pikachu.png);
+    background-repeat: no-repeat; 
+    background-position: fixed;
+    background-position: left;
+    background-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.caja3 {
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-image: url(pikachu.png);
+    background-repeat:repeat; 
+    background-position: fixed;
+    background-size: 50px;
+}

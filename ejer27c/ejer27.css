@@ -1,0 +1,23 @@
+div{
+    border: 2px solid black;
+    background-color: burlywood;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.bloque1{
+    border: 2px solid black;
+    background-color: burlywood;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.izq{
+    float: left;
+    width: 100px;
+}
+.der{
+    float: right;
+    width: 100px;
+}
