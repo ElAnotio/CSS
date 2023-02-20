@@ -1,0 +1,28 @@
+.p1{
+    background-color: bisque;
+    font-size: small;
+    
+
+}
+
+.p2{
+background-color: goldenrod;
+text-align: left;
+font-size: larger;
+
+}
+
+.p3{
+background-color: darksalmon;
+word-spacing: 10px;
+text-align: right;
+font-size: x-large;
+}
+
+.p4{
+background-color: pink;
+text-align: justify;
+font-size: x-small;
+
+
+}
