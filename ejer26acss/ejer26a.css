@@ -1,0 +1,38 @@
+div {
+    border: 2px solid black;
+}
+
+.c1 {
+    background-color: aqua;
+    margin: 20px;
+    position: absolute;
+    top: 200px;
+}
+
+.c2 {
+    background-color: orange;
+    position: fixed;
+    margin: 20px;
+    right: 500px;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+
+}
+
+.c3 {
+    background-color: green;
+    position: fixed;
+    margin: 20px;
+    left: 500px;
+
+}
+
+.c4 {
+    background-color: aquamarine;
+    margin: 20px;
+    position: absolute;
+    top: 300px;
+
+
+}
